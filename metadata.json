@@ -1,0 +1,8 @@
+{
+  "name": "Reality Layers",
+  "description": "Turn your smartphone camera into an interactive window for understanding, exploring, troubleshooting, and reimagining the physical world.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
